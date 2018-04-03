@@ -35,6 +35,7 @@ build/Release
 # Dependency directories
 /bin/
 /node_modules/
+*.json
 
 # TypeScript v1 declaration files
 typings/
